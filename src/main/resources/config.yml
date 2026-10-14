@@ -1,0 +1,18 @@
+# Names used by /nick name random. Add as many as you like.
+random-names:
+  - NebulaFox
+  - PixelPilot
+  - CopperCreeper
+  - LunarByte
+  - MossyMiner
+  - QuartzKnight
+  - EmberEcho
+  - CloudCrafter
+
+# Rank labels shown in the book and above the player's name.
+ranks:
+  DEFAULT: ""
+  VIP: "&a[VIP] "
+  VIP+: "&a[VIP&6+&a] "
+  MVP: "&b[MVP] "
+  MVP+: "&b[MVP&c+&b] "

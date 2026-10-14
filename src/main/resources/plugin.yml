@@ -1,0 +1,18 @@
+name: NickBook
+version: 1.0.0
+main: com.mikaeel.nickbook.NickBookPlugin
+api-version: '1.21'
+author: Mikaeel
+website: https://papermc.io
+commands:
+  nick:
+    description: Open the nickname setup book or manage your nickname
+    usage: /nick [reset|rank|skin|name]
+    aliases: [nickname]
+permissions:
+  nickbook.use:
+    description: Use the nickname setup flow
+    default: true
+  nickbook.admin:
+    description: Reload NickBook configuration
+    default: op
